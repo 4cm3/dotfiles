@@ -175,4 +175,4 @@ bar {
 }
 
 exec --no-startup-id /usr/bin/gnome-keyring-daemon --start --components=ssh,secrets,pkcs11
-bindsym $mod+l exec i3lock -c 000000
+bindsym $mod+l exec /home/acm3/bin/screenlock.sh
