@@ -1,0 +1,5 @@
+hardstatus alwayslastline
+hardstatus string "%{= kw}%-w%{= BW}%n %t%{-}%+w %=%{= kw}%H %{= kw}%-d %d.%m.%Y %c"
+bindkey "^[[1;2D" prev    # Shift+Left goes to previous window
+bindkey "^[[1;2C" next    # Shift+Right goes to next window
+
