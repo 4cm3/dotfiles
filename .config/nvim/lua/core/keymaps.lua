@@ -24,3 +24,6 @@ keymap.set("n", "<leader>tf", ":tabnew %<CR>", { desc = "Open current buffer in 
 keymap.set("n", "<C-PageUp>", ":tabn<CR>", { desc = "Go to next tab" })
 keymap.set("n", "<C-PageDown>", ":tabp<CR>", { desc = "Go to previous tab" })
 
+keymap.set("n", "<ESC>]99D", ":tabprevious<CR>")
+keymap.set("n", "<ESC>]99C", ":tabnext<CR>")
+keymap.set('n', '<A-D-t>', ':tabnew<CR>', { noremap = true })
