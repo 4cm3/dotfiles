@@ -1,0 +1,22 @@
+{
+        "caret_style": "smooth",
+        "color_scheme": "Catppuccin Frappe.sublime-color-scheme",
+        "font_face": "Hack Nerd Font",
+        "font_size": 17,
+        "gtk_client_side_window_decorations": false,
+        "highlight_line": true,
+        "ignored_packages":
+        [
+                "Vintage",
+        ],
+        "index_files": true,
+        "tab_size": 4,
+        "theme": "Default.sublime-theme",
+        "translate_tabs_to_spaces": true,
+        "trim_trailing_white_space_on_save": true,
+        "update_check": false,
+        "draw_white_space": true,
+        /*"trim_trailing_white_space_on_save": true*/
+}
+
+
